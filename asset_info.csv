@@ -1,0 +1,12 @@
+Ticker,Name,Country
+^NDX,NASDAQ 100,USA
+^GSPC,S&P 500, USA
+^HSI,Hang Seng Index, HKG
+^FTSE,FTSE 100, GBR
+^DJI,Dow Jones Industrial Average, USA
+^GDAXI,DAX Performance-Index, GER
+^RUT,Russell 2000, GBR
+^FCHI,CAC 40, FRA
+^BVSP,Ibovespa, BRA
+000001.SS,SSE Composite Index, CHN
+^N225,Nikkei 225, JPN
